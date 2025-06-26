@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>Day7.Stackdemo</StartupObject>
+    <StartupObject>Day7.MulticastDelegates</StartupObject>
   </PropertyGroup>
 
 </Project>
