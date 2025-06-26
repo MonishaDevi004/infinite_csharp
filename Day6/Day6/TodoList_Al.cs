@@ -74,6 +74,7 @@ namespace Day6
 
                     case 3:
                         toDoList.RemoveTask("Training");
+                        Console.WriteLine("Element Deleted Successfully!!");
                         break;
 
                     default:
