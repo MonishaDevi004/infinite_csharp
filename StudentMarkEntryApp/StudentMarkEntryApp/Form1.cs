@@ -45,10 +45,7 @@ namespace StudentMarkEntryApp
                 MessageBox.Show("Please Enter the Valid Input!!");
             }
 
-            foreach (var item in studentList)
-            {
-                Console.WriteLine(item.StudentName);
-            }
+           
 
            
         }

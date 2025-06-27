@@ -8,3 +8,6 @@ D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\St
 D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.exe
 D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.pdb
 D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Form2.resources
+D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.csproj.AssemblyReference.cache
+D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Form3.resources
+D:\OnlineTraining\C#_June25\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Form4.resources
